@@ -6,16 +6,16 @@
 ! I have been made aware of «Whenever You Need Somebody» having the same intro, but at the current point in time that song is considered to be out of scope for this list.
 ! Notice! This script originally from DandelionSprout's ""https://github.com/DandelionSprout/adfilt/blob/master/RickrollLinkIdentifier.txt"" project.
 ! Homepage: https://github.com/DandelionSprout/adfilt/blob/master/Wiki/General-info.md#english
-*##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href*="/watch?v=oHg5SJYRHA0"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href*="%2Fwatch%3Fv%3DdQw4w9WgXcQ"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href*="%2Fwatch%3Fv%3DoHg5SJYRHA0"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href*="youtu.be/dQw4w9WgXcQ"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href*="youtu.be/oHg5SJYRHA0"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href*="youtube-nocookie.com/embed/dQw4w9WgXcQ"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href*="youtube-nocookie.com/embed/oHg5SJYRHA0"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href$="imgur.com/gallery/yed5Zfk"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
-*##a[href*="imgur.com/yed5Zfk"]:before:style(content: "(Rickroll var) " !important; color: #001263 !important; visibility: visible)
+*##a[href*="/watch?v=dQw4w9WgXcQ"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href*="/watch?v=oHg5SJYRHA0"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href*="%2Fwatch%3Fv%3DdQw4w9WgXcQ"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href*="%2Fwatch%3Fv%3DoHg5SJYRHA0"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href*="youtu.be/dQw4w9WgXcQ"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href*="youtu.be/oHg5SJYRHA0"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href*="youtube-nocookie.com/embed/dQw4w9WgXcQ"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href*="youtube-nocookie.com/embed/oHg5SJYRHA0"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href$="imgur.com/gallery/yed5Zfk"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
+*##a[href*="imgur.com/yed5Zfk"]:before:style(content: "(Rickroll var) " !important; color: #031263 !important; visibility: visible)
 ||youtube.com/watch?v=dQw4w9WgXcQ^
 ||youtube.com/watch?v=oHg5SJYRHA0^
 ||youtube.com./watch?v=dQw4w9WgXcQ^
