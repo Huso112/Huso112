@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Huso112
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning Arch Linux/Manjaro
+- 🌱 I’m currently learning Arch Linux
 - 💞️ I’m looking to collaborate on anybody
 - 📫 How to reach me "serdarserdar866@gmail.com"
 
