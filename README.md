@@ -2,18 +2,20 @@
 
 Hi.
 
-I am an (Arch) Linux user & programming language enthusiast.
+I am an Linux Mint/MacOS user & systems programming language enthusiast.
 
-I started programming last summer for hobby but I think I'll be an software engineer. 
+I write programs as a hobby.
 
-My first language is Python but if we can say shells, then my fist language is Bash. I writed a lot of Bash script in past.
-
-I wrote some programs -thanks to the people who helped me- especially in Python but it was so slow to me and I learned C++ ;  after C++ and currently I am learning Rust.
-
-## Programming Languages I (Intermedidately Know And) Use
-- JS
-- Python
+## Programming Languages I (Know And) Use (oftenly)
+### Beginner-Decent
 - C++
+- C
+
+### Decent
+- Python
+
+### Good
 - Rust
+- Go
 
 If you want to contact me, you can send an e-mail to "serdarserdar866@gmail.com"
