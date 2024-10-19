@@ -1,21 +1,26 @@
 # Hello, GitHub!
 
-Hi.
+Hi. Everyone! I am a Computer Engineering student in İzmir University of Economics.
 
-I am an Linux Mint/MacOS user & systems programming language enthusiast.
-
-I write programs as a hobby.
+I have interest in low-level technologies e.g. kernels, LIBCs, drivers, microcontrollers, etc.
 
 ## Programming Languages I (Know And) Use (oftenly)
 ### Beginner-Decent
+- Swift
+- C#
+- Go
 - C++
-- C
+- Lua
+- Java
 
-### Decent
+### Decent-Good
 - Python
+- C
 
 ### Good
 - Rust
-- Go
+
+### God Forbid
+- JS
 
 If you want to contact me, you can send an e-mail to "serdarserdar866@gmail.com"
